@@ -1,0 +1,26 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranVux/ExpressJS.git"
+  },
+  "author": "TAVUX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranVux/ExpressJS/issues"
+  },
+  "homepage": "https://github.com/TranVux/ExpressJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
